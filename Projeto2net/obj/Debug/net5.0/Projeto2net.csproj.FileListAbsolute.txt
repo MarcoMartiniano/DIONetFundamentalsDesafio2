@@ -1,0 +1,16 @@
+C:\Users\Marco\Desktop\Programacao\DIO - Digital Innovation One\DIO - NET FUNDAMENTALS\Projeto2\Projeto2net\Projeto2net\bin\Debug\net5.0\Projeto2net.exe
+C:\Users\Marco\Desktop\Programacao\DIO - Digital Innovation One\DIO - NET FUNDAMENTALS\Projeto2\Projeto2net\Projeto2net\bin\Debug\net5.0\Projeto2net.deps.json
+C:\Users\Marco\Desktop\Programacao\DIO - Digital Innovation One\DIO - NET FUNDAMENTALS\Projeto2\Projeto2net\Projeto2net\bin\Debug\net5.0\Projeto2net.runtimeconfig.json
+C:\Users\Marco\Desktop\Programacao\DIO - Digital Innovation One\DIO - NET FUNDAMENTALS\Projeto2\Projeto2net\Projeto2net\bin\Debug\net5.0\Projeto2net.runtimeconfig.dev.json
+C:\Users\Marco\Desktop\Programacao\DIO - Digital Innovation One\DIO - NET FUNDAMENTALS\Projeto2\Projeto2net\Projeto2net\bin\Debug\net5.0\Projeto2net.dll
+C:\Users\Marco\Desktop\Programacao\DIO - Digital Innovation One\DIO - NET FUNDAMENTALS\Projeto2\Projeto2net\Projeto2net\bin\Debug\net5.0\ref\Projeto2net.dll
+C:\Users\Marco\Desktop\Programacao\DIO - Digital Innovation One\DIO - NET FUNDAMENTALS\Projeto2\Projeto2net\Projeto2net\bin\Debug\net5.0\Projeto2net.pdb
+C:\Users\Marco\Desktop\Programacao\DIO - Digital Innovation One\DIO - NET FUNDAMENTALS\Projeto2\Projeto2net\Projeto2net\obj\Debug\net5.0\Projeto2net.csproj.AssemblyReference.cache
+C:\Users\Marco\Desktop\Programacao\DIO - Digital Innovation One\DIO - NET FUNDAMENTALS\Projeto2\Projeto2net\Projeto2net\obj\Debug\net5.0\Projeto2net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Desktop\Programacao\DIO - Digital Innovation One\DIO - NET FUNDAMENTALS\Projeto2\Projeto2net\Projeto2net\obj\Debug\net5.0\Projeto2net.AssemblyInfoInputs.cache
+C:\Users\Marco\Desktop\Programacao\DIO - Digital Innovation One\DIO - NET FUNDAMENTALS\Projeto2\Projeto2net\Projeto2net\obj\Debug\net5.0\Projeto2net.AssemblyInfo.cs
+C:\Users\Marco\Desktop\Programacao\DIO - Digital Innovation One\DIO - NET FUNDAMENTALS\Projeto2\Projeto2net\Projeto2net\obj\Debug\net5.0\Projeto2net.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Desktop\Programacao\DIO - Digital Innovation One\DIO - NET FUNDAMENTALS\Projeto2\Projeto2net\Projeto2net\obj\Debug\net5.0\Projeto2net.dll
+C:\Users\Marco\Desktop\Programacao\DIO - Digital Innovation One\DIO - NET FUNDAMENTALS\Projeto2\Projeto2net\Projeto2net\obj\Debug\net5.0\ref\Projeto2net.dll
+C:\Users\Marco\Desktop\Programacao\DIO - Digital Innovation One\DIO - NET FUNDAMENTALS\Projeto2\Projeto2net\Projeto2net\obj\Debug\net5.0\Projeto2net.pdb
+C:\Users\Marco\Desktop\Programacao\DIO - Digital Innovation One\DIO - NET FUNDAMENTALS\Projeto2\Projeto2net\Projeto2net\obj\Debug\net5.0\Projeto2net.genruntimeconfig.cache
